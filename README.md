@@ -22,3 +22,10 @@ Considere a existÃªncia de um tipo abstrato Fila de nÃºmeros inteiros, cuja inte
 
 Sem conhecer a representaÃ§Ã£o interna desse tipo abstrato Fila e usando apenas as funÃ§Ãµes declaradas,, faÃ§a uma funÃ§Ã£o que receba como parÃ¢metro uma fila e remova da fila os nÃºmeros negativos. Utilize o protÃ³tipo:
 void remove_negativos (fila* f);
+
+## Exer_1
+Implemente uma função que calcule a área da superfície e o volume de uma esfera de raio R. Essa função deve obedecer ao protótipo: void calc_esfera(float R, float *area, float *volume) A área da superfície e o volume são dados, respectivamente, por: A = 4 ? ? ? R2 V = 4/3 ? ? ? R3
+
+## Exer_2
+2)	Escreva uma função que aceita como parâmetro um vetor de inteiros com N valores, determina o menor elemento do vetor e o número de vezes que este elemento ocorreu no vetor. Por exemplo, para um vetor com os seguintes elementos: 5, 2, 15, 3, 7, 2, 8, 6, 2, a função deve retorna para o programa que a chamou o valor 2 e o número 3 (indicando que o número 2 ocorreu 3 vezes). A função deve obedecer ao protótipo: void menor(int vet[], int *menor, int *vezes)
+
